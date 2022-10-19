@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 [![Twitter Follow](https://img.shields.io/twitter/follow/UsmanMirza?color=1DA1F2&label=Followers&logo=twitter&style=for-the-badge)][twitter] -->
 
 ### :technologist: About Me :
-- 🔭 &ensp;I’m currently working as a [**Freelancer**](https://www.fiverr.com/itsusmanmirza/develop-ios-and-android-applications-using-flutter)!
+- 🔭 &ensp;I’m currently working as a [**Freelancer**](https://bit.ly/3eCyQ2M)!
 - 🌱 &ensp;Still learning Flutter and keep growing ❤️
 - 🎉 &ensp;I am one of the early adopters of Flutter, it has been more than 5 years
 - 📫 &ensp;How to reach me: [**Twitter**][twitter] or [**Email**][email]
