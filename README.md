@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 - 📫 &ensp;How to reach me: [**Twitter**][twitter] or [**Email**][email]
 <!-- - ⚡ &ensp;Fun fact: I love reading & podcasts -->
 
-### 🔗: Connect with Me :
+### 🔗 Connect with Me :
 [<img align="left" alt="Usman Mirza | Website" width="28px" src="https://firebasestorage.googleapis.com/v0/b/projectx-1995.appspot.com/o/website.png?alt=media&token=4a117fa7-7afd-45cd-8bd3-2a832b8fea9f" />][website]
 <!-- [<img align="left" alt="Usman Mirza | YouTube" width="28px" src="https://firebasestorage.googleapis.com/v0/b/projectx-1995.appspot.com/o/youtube.png?alt=media&token=8f73329c-9ead-4322-9dbc-193ae3a6d3e0" />][youtube] -->
 [<img align="left" alt="Usman Mirza | Twitter" width="28px" src="https://firebasestorage.googleapis.com/v0/b/projectx-1995.appspot.com/o/twitter.png?alt=media&token=21bce785-7679-4c39-b2ba-a71a5331a5c3" />][twitter]
