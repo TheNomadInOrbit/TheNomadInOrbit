@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 <h3 align="center">I'm Flutter Developer</h3>
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=itsusmanmirza&style=flat-square&color=blue" alt=""/>
 </div>
 
 <!-- [![Twitter Follow](https://img.shields.io/twitter/follow/realUsmanMirza?color=1DA1F2&label=Followers&logo=twitter&style=for-the-badge)][twitter]
@@ -82,9 +82,9 @@ Here are some ideas to get you started:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=itsusmanmirza&theme=github-dark&hide_border=true&border_radius=5)](https://git.io/streak-stats)
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=omni&hide_border=true&border_radius=5)](https://github.com/anuraghazra/github-readme-stats)
----
+----
 
-[website]: https://devsintech.com
+[website]: https://bit.ly/3eEmx5M
 [twitter]: https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FrealUsmanMirza&screen_name=realUsmanMirza
 <!-- [youtube]: https://www.youtube.com/UsmanInTech?sub_confirmation=1 -->
 [linkedin]: https://linkedin.com/in/itsusmanmirza
