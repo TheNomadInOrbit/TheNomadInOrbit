@@ -1,19 +1,21 @@
-# Hi there! 👋 I'm Usman
+# Hi there! I'm Usman
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&width=435&lines=Passionate+Flutter+Developer;AI+Content+Creator;Project+Leader;Building+Amazing+Mobile+Apps" alt="Typing SVG" />
 </div>
 
-## 🚀 About Me
+## About Me
 
-I'm a **passionate self-taught Flutter developer**, **AI enthusiast**, and **tech content creator** who loves exploring how technology enhances lives. With over 5 years of experience as one of Flutter's early adopters, I specialize in building beautiful, functional mobile applications and sharing knowledge with the developer community.
+I'm a passionate self-taught Flutter developer, AI enthusiast, and tech content creator who loves exploring how technology enhances lives. With over 5 years of experience as one of Flutter's early adopters, I specialize in building beautiful, functional mobile applications and sharing knowledge with the developer community.
+
+**Founder & CEO at Devs in Tech** - Leading innovative tech ventures and building the future of mobile development.
 
 ---
 
-## 🔥 Tech Stack & Skills
+## Tech Stack & Skills
 
 <div align="center">
-  
+
 ### Mobile Development
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
@@ -43,83 +45,72 @@ I'm a **passionate self-taught Flutter developer**, **AI enthusiast**, and **tec
 
 ---
 
-## 💼 Professional Experience
+## Professional Experience
 
-🚀 **Founder & CEO** - Leading innovative tech ventures  
-📱 **Senior Flutter Developer** - 5+ years building mobile apps  
-📊 **Project Manager** - Managing cross-functional teams  
-🎥 **Content Creator** - Sharing tech knowledge and tutorials  
-🔄 **Scrum Master** - Implementing agile methodologies  
-💡 **AI Enthusiast** - Integrating AI solutions in projects
-
----
-
-## 🏆 Featured Projects
-
-### 📱 Mobile Applications
-- **Load Ranger** - Advanced load management solution
-- **Writelligence AI** - AI-powered writing assistant
-- **The Snack Byte** - Tech content delivery platform
-- **Vender** - Vendor management system
-- **Dressage Coach** - Equestrian training application
-
-*Links to app stores and demos available upon request*
+- **Founder & CEO** - Leading innovative tech ventures
+- **Senior Flutter Developer** - 5+ years building mobile apps
+- **Project Manager** - Managing cross-functional teams
+- **Content Creator** - Sharing tech knowledge and tutorials
+- **Scrum Master** - Implementing agile methodologies
+- **AI Enthusiast** - Integrating AI solutions in projects
 
 ---
 
-## 🎓 Education & Certifications
+## Featured Projects
 
-🧠 **AI Basics Certification**  
-💻 **No-Code Bootcamp** - Bubble.io & OpenAI Integration  
-🎓 **Self-Taught Developer** - Continuous learning journey
+### Mobile Applications
+
+- **Load Ranger** - Advanced load management mobile solution
+- **Dressage Coach** - Equestrian training mobile application
+- **Found It** - Smart item finder application
+- **Collin** - Personal assistant application
 
 ---
 
-## 🌐 Connect With Me
+## Education & Certifications
+
+- AI Basics Certification
+- No-Code Bootcamp - Bubble.io & OpenAI Integration
+- Self-Taught Developer - Continuous learning journey
+
+---
+
+## Connect With Me
 
 <div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/TheNomadInOrbit)
-[![X (Twitter)](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/TheNomadInOrbit)
-[![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white)](https://www.threads.net/@usmantechjive)
-[![Website](https://img.shields.io/badge/Website-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](https://app.daily.dev/usmantechjive)
-[![Linktree](https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](#)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/TheNomadInOrbit)
+[![X (Twitter)](https://img.shields.io/badge/X-black?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/TheNomadInOrbit)
+[![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white)](https://www.threads.net/@usmantechjive)
+[![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://app.daily.dev/usmantechjive)
 
 </div>
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  
-<img src="https://github-readme-stats.vercel.app/api?username=TheNomadInOrbit&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180em" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheNomadInOrbit&layout=compact&theme=tokyonight" alt="Top Languages" height="180em" />
-
-</div>
+<!--
+## GitHub Stats
 
 <div align="center">
-  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TheNomadInOrbit&theme=tokyonight)](https://git.io/streak-stats)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheNomadInOrbit&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TheNomadInOrbit&layout=compact&theme=dark)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=TheNomadInOrbit&theme=dark)](https://git.io/streak-stats)
 
 </div>
+-->
 
 ---
 
-## 🤝 Let's Collaborate!
+## Let's Collaborate!
 
-💡 **Looking to collaborate on innovative Flutter projects?**  
-🚀 **Need help with AI integration or mobile app development?**  
-📱 **Want to discuss the latest in tech and development?**  
+Looking to collaborate on innovative Flutter projects? Need help with AI integration or mobile app development? Want to discuss the latest in tech and development?
 
-**Let's connect and build something amazing together!** 🌟
+Let's connect and build something amazing together!
+
+<!-- 
+![Profile Views](https://komarev.com/ghpvc/?username=TheNomadInOrbit&color=blue&style=flat-square)
+-->
 
 ---
 
-<div align="center">
-  
-![Profile Views](https://komarev.com/ghpvc/?username=TheNomadInOrbit&style=for-the-badge&color=brightgreen)
-
-*"Orbiting ideas, landing solutions"* ⚡️
-
-</div>
+"Orbiting ideas, landing solutions"
