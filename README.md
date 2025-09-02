@@ -12,6 +12,12 @@ I'm a passionate self-taught Flutter developer, AI enthusiast, and tech content 
 
 ---
 
+## Primary Languages Used
+
+**Dart/Flutter** - Primary expertise with over 5 years of experience building beautiful, functional mobile applications. Strong proficiency in Dart language for Flutter app development, creating cross-platform solutions for iOS and Android.
+
+---
+
 ## Tech Stack & Skills
 
 <div align="center">
@@ -86,6 +92,7 @@ I'm a passionate self-taught Flutter developer, AI enthusiast, and tech content 
 
 </div>
 
+<!-- GitHub Stats - Temporarily hidden
 ## GitHub Stats
 
 <div align="center">
@@ -96,7 +103,7 @@ I'm a passionate self-taught Flutter developer, AI enthusiast, and tech content 
 [![GitHub Streak](https://streak-stats.demolab.com?user=TheNomadInOrbit&theme=dark)](https://git.io/streak-stats)
 
 </div>
-
+-->
 
 ---
 
@@ -106,9 +113,9 @@ Looking to collaborate on innovative Flutter projects? Need help with AI integra
 
 Let's connect and build something amazing together!
 
- 
+<!-- Profile Views - Temporarily hidden
 ![Profile Views](https://komarev.com/ghpvc/?username=TheNomadInOrbit&color=blue&style=flat-square)
-
+-->
 
 ---
 
