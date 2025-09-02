@@ -1,96 +1,125 @@
-<!--
-**realUsmanMirza/realUsmanMirza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there! 👋 I'm Usman
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-  
-  <h1 align="center"> Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm <a href="https://www.linkedin.com/in/itsusmanmirza">Usman Mirza!</a></h1>
-  
-<div id="badges" align="center">
-  <a href=[twitter]>
-    <img src="https://img.shields.io/twitter/follow/realUsmanMirza?color=1DA1F2&label=Followers&logo=twitter&style=for-the-badge" alt="Twitter Badge"/>
-  </a>
-  
-  <a href=[github]>
-    <img src="https://img.shields.io/github/followers/itsusmanmirza?logo=GitHub&style=for-the-badge" alt="Github Badge"/>
-  </a>
-  
-  <a href=[linkedin]>
-    <img src="https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/itsusmanmirza/" alt="LinkedIn Badge"/>
-  </a>
-
-</div>
-</div>
-
-<h3 align="center">I'm Flutter Developer</h3>
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=itsusmanmirza&style=flat-square&color=blue" alt=""/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&width=435&lines=Passionate+Flutter+Developer;AI+Content+Creator;Project+Leader;Building+Amazing+Mobile+Apps" alt="Typing SVG" />
 </div>
 
-<!-- [![Twitter Follow](https://img.shields.io/twitter/follow/realUsmanMirza?color=1DA1F2&label=Followers&logo=twitter&style=for-the-badge)][twitter]
-[![GitHub followers](https://img.shields.io/github/followers/itsusmanmirza?logo=GitHub&style=for-the-badge)][github]
-[![Linkedin: Usman Mirza](https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/itsusmanmirza/)][linkedin] -->
-<!-- [![Youtube](https://img.shields.io/static/v1?label=UsmanMirza&message=Subscribe&logo=YouTube&color=FF0000&style=for-the-badge)][youtube]
-[![Twitter Follow](https://img.shields.io/twitter/follow/UsmanMirza?color=1DA1F2&label=Followers&logo=twitter&style=for-the-badge)][twitter] -->
+## 🚀 About Me
 
-### :technologist: About Me :
-- 🔭 &ensp;I’m currently working as a [**Freelancer**](https://bit.ly/3eCyQ2M)!
-- 🌱 &ensp;Still learning Flutter and keep growing ❤️
-- 🎉 &ensp;I am one of the early adopters of Flutter, it has been more than 5 years
-- 📫 &ensp;How to reach me: [**Twitter**][twitter] or [**Email**][email]
-<!-- - ⚡ &ensp;Fun fact: I love reading & podcasts -->
+I'm a **passionate self-taught Flutter developer**, **AI enthusiast**, and **tech content creator** who loves exploring how technology enhances lives. With over 5 years of experience as one of Flutter's early adopters, I specialize in building beautiful, functional mobile applications and sharing knowledge with the developer community.
 
-### 🔗 Connect with Me :
-[<img align="left" alt="Usman Mirza | Website" width="28px" src="https://firebasestorage.googleapis.com/v0/b/projectx-1995.appspot.com/o/website.png?alt=media&token=4a117fa7-7afd-45cd-8bd3-2a832b8fea9f" />][website]
-<!-- [<img align="left" alt="Usman Mirza | YouTube" width="28px" src="https://firebasestorage.googleapis.com/v0/b/projectx-1995.appspot.com/o/youtube.png?alt=media&token=8f73329c-9ead-4322-9dbc-193ae3a6d3e0" />][youtube] -->
-[<img align="left" alt="Usman Mirza | Twitter" width="28px" src="https://firebasestorage.googleapis.com/v0/b/projectx-1995.appspot.com/o/twitter.png?alt=media&token=21bce785-7679-4c39-b2ba-a71a5331a5c3" />][twitter]
-[<img align="left" alt="Usman Mirza | LinkedIn" width="28px" src="https://firebasestorage.googleapis.com/v0/b/projectx-1995.appspot.com/o/linkedin.png?alt=media&token=00f90c30-1a40-4607-8476-6540f19fc1cd" />][linkedin]
+---
 
-<!--[<img align="left" alt="Usman Mirza | Instagram" width="28px" src="https://firebasestorage.googleapis.com/v0/b/web-usmanmirza.appspot.com/o/other%2Fsocial%2Finstagram.png?alt=media" />][instagram]
-[<img align="left" alt="Usman Mirza | Facebook" width="28px" src="https://firebasestorage.googleapis.com/v0/b/web-usmanmirza.appspot.com/o/other%2Fsocial%2Ffacebook.png?alt=media" />][facebook]
-[<img align="left" alt="Usman Mirza | Medium" width="28px" src="https://firebasestorage.googleapis.com/v0/b/web-usmanmirza.appspot.com/o/other%2Fsocial%2Fmedium.png?alt=media" />][medium] -->
+## 🔥 Tech Stack & Skills
 
-<br />
-<br />
+<div align="center">
+  
+### Mobile Development
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 
-### :hammer_and_wrench: Languages and Tools :
-<img align="left" alt=“Flutter” width="26px" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" />
-<img align="left" alt=“Firebase” width="26px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" />
-<img align="left" alt=“Dart” width="26px" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" />
-<img align="left" alt=“Dart” width="26px" src="https://firebasestorage.googleapis.com/v0/b/projectx-1995.appspot.com/o/js.svg?alt=media&token=a377c492-4a36-4ebb-9243-7064f7cf3a81" />
-<img align="left" alt=“Github” width="26px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />
-<img align="left" alt=“Github” width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+### Backend & Database
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
+### Design & Development
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 
+### Project Management
+![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white)
+![Agile](https://img.shields.io/badge/Agile-239120?style=for-the-badge&logo=agile&logoColor=white)
 
-<br />
-<br />
+### No-Code & AI
+![Bubble.io](https://img.shields.io/badge/Bubble.io-0F1629?style=for-the-badge&logo=bubble&logoColor=white)
+![AI](https://img.shields.io/badge/AI-FF6B6B?style=for-the-badge&logo=openai&logoColor=white)
 
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=itsusmanmirza&theme=github-dark&hide_border=true&border_radius=5)](https://git.io/streak-stats)
-<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=omni&hide_border=true&border_radius=5)](https://github.com/anuraghazra/github-readme-stats)
-----
+### Content Creation
+![Content Creation](https://img.shields.io/badge/Content_Creation-FF4088?style=for-the-badge&logo=youtube&logoColor=white)
 
-[website]: https://bit.ly/3eEmx5M
-[twitter]: https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FrealUsmanMirza&screen_name=realUsmanMirza
-<!-- [youtube]: https://www.youtube.com/UsmanInTech?sub_confirmation=1 -->
-[linkedin]: https://linkedin.com/in/itsusmanmirza
-[github]: https://github.com/itsusmanmirza
-[instagram]: https://www.instagram.com/realUsmanMirza
-[facebook]: https://www.facebook.com/
-[medium]: https://medium.com/@itsusmanmirza
-[email]: mailto:itsusmanmirza90s@gmail.com
+</div>
 
+---
+
+## 💼 Professional Experience
+
+🚀 **Founder & CEO** - Leading innovative tech ventures  
+📱 **Senior Flutter Developer** - 5+ years building mobile apps  
+📊 **Project Manager** - Managing cross-functional teams  
+🎥 **Content Creator** - Sharing tech knowledge and tutorials  
+🔄 **Scrum Master** - Implementing agile methodologies  
+💡 **AI Enthusiast** - Integrating AI solutions in projects
+
+---
+
+## 🏆 Featured Projects
+
+### 📱 Mobile Applications
+- **Load Ranger** - Advanced load management solution
+- **Writelligence AI** - AI-powered writing assistant
+- **The Snack Byte** - Tech content delivery platform
+- **Vender** - Vendor management system
+- **Dressage Coach** - Equestrian training application
+
+*Links to app stores and demos available upon request*
+
+---
+
+## 🎓 Education & Certifications
+
+🧠 **AI Basics Certification**  
+💻 **No-Code Bootcamp** - Bubble.io & OpenAI Integration  
+🎓 **Self-Taught Developer** - Continuous learning journey
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/TheNomadInOrbit)
+[![X (Twitter)](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/TheNomadInOrbit)
+[![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white)](https://www.threads.net/@usmantechjive)
+[![Website](https://img.shields.io/badge/Website-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](https://app.daily.dev/usmantechjive)
+[![Linktree](https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](#)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  
+<img src="https://github-readme-stats.vercel.app/api?username=TheNomadInOrbit&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180em" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheNomadInOrbit&layout=compact&theme=tokyonight" alt="Top Languages" height="180em" />
+
+</div>
+
+<div align="center">
+  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TheNomadInOrbit&theme=tokyonight)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 🤝 Let's Collaborate!
+
+💡 **Looking to collaborate on innovative Flutter projects?**  
+🚀 **Need help with AI integration or mobile app development?**  
+📱 **Want to discuss the latest in tech and development?**  
+
+**Let's connect and build something amazing together!** 🌟
+
+---
+
+<div align="center">
+  
+![Profile Views](https://komarev.com/ghpvc/?username=TheNomadInOrbit&style=for-the-badge&color=brightgreen)
+
+*"Orbiting ideas, landing solutions"* ⚡️
+
+</div>
