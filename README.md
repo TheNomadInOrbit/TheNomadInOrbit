@@ -75,18 +75,18 @@ I'm a passionate self-taught Flutter developer, AI enthusiast, and tech content 
 
 ### Mobile Applications
 
-• **Load Ranger** - Advanced load management mobile solution
-• **Dressage Coach** - Equestrian training mobile application
-• **Found It** - Smart item finder application
-• **Collin** - Personal assistant application
+- **Load Ranger** - Advanced load management mobile solution
+- **Dressage Coach** - Equestrian training mobile application
+- **Found It** - Smart item finder application
+- **Collin** - Personal assistant application
 
 ---
 
 ## Education & Certifications
 
-- • **AI Basics Certification**
-- • **No-Code Bootcamp** - Bubble.io & OpenAI Integration
-- • **Self-Taught Developer** - Continuous learning journey
+- **AI Basics Certification**
+- **No-Code Bootcamp** - Bubble.io & OpenAI Integration
+- **Self-Taught Developer** - Continuous learning journey
 
 ---
 
