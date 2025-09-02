@@ -11,8 +11,6 @@
 
 I'm a passionate self-taught Flutter developer, AI enthusiast, and tech content creator who loves exploring how technology enhances lives. With over 5 years of experience as one of Flutter's early adopters, I specialize in building beautiful, functional mobile applications and sharing knowledge with the developer community.
 
-**Founder & CEO at Devs in Tech** - Leading innovative tech ventures and building the future of mobile development.
-
 ---
 
 ## Primary Languages Used
@@ -62,7 +60,6 @@ I'm a passionate self-taught Flutter developer, AI enthusiast, and tech content 
 
 ## Professional Experience
 
-- **Founder & CEO** - Leading innovative tech ventures
 - **Senior Flutter Developer** - 5+ years building mobile apps
 - **Project Manager** - Managing cross-functional teams
 - **Content Creator** - Sharing tech knowledge and tutorials
